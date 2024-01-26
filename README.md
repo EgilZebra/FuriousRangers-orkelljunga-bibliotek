@@ -1,4 +1,7 @@
 # FuriousRangers-orkelljunga-bibliotek
+
+Grupp: Furious Rangers
+Medlemmar: Johan Skoog, Emanuele De Negri, Muhammed Reda Fezazi och Egil Ramsten.
 Agile planering av Örkelljungas biblioteksystem.
 
 TrelloBoard planering av projektet.
